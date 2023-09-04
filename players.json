@@ -12,21 +12,27 @@
     "armorClass": 16
   },
   {
-    "name": "Sjonnie",
+    "name": "Gimble",
     "avatar": "https://i.ibb.co/3CNndRm/Screenshot-2023-04-17-at-18-24-54.png",
-    "disabled": false,
+    "disabled": true,
     "armorClass": 16
   },
   {
     "name": "Sneek",
     "avatar": "https://i.ibb.co/vzDsMf1/Screenshot-2023-04-17-at-18-24-42.png",
     "disabled": false,
-    "armorClass": 14
+    "armorClass": 15
   },
   {
     "name": "Face",
     "avatar": "https://i.ibb.co/Sx9xkKv/Screenshot-2023-04-17-at-18-24-50.png",
     "disabled": false,
     "armorClass": 12
+  },
+   {
+    "name": "Felix",
+    "avatar": "https://i.ibb.co/Sx9xkKv/Screenshot-2023-04-17-at-18-24-50.png",
+    "disabled": false,
+    "armorClass": 15
   }
 ]
